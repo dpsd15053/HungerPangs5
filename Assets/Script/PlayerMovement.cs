@@ -56,7 +56,7 @@ public class PlayerMovement : MonoBehaviour
         UpdateAnimationState();
 
     }
-    private void UpdateAnimationState()
+    public void UpdateAnimationState()
     {
         MovementState state;
 

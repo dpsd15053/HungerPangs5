@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39d16ecc4ce1c1a4c89c8bbb7a870f17
+guid: 6d372f3ed2e806d4c8314fd766cdb545
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chillyANIM_0
+      name: STATIC B.M SPRITE SHEET 1700-860_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 573.3333
-        height: 1010
+        width: 566.6667
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bccc0cd5f121bed4a8ed92935c90d390
-      internalID: -215664233
+      spriteID: 8f66ce1bb1b3cf7498abbd8340ab9ee6
+      internalID: -1095925294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chillyANIM_1
+      name: STATIC B.M SPRITE SHEET 1700-860_1
       rect:
         serializedVersion: 2
-        x: 573
+        x: 566
         y: 0
-        width: 573.3333
-        height: 1010
+        width: 566.6667
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ece2d80641a794ba07cd8c012dd8d8
-      internalID: -1830868601
+      spriteID: 3d2240cb074370849b03b5951f32f1a3
+      internalID: 1091534283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chillyANIM_2
+      name: STATIC B.M SPRITE SHEET 1700-860_2
       rect:
         serializedVersion: 2
-        x: 1146
+        x: 1132
         y: 0
-        width: 573.3333
-        height: 1010
+        width: 566.6667
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbf58a8088def0444bb6a0193854fde1
-      internalID: 1098153420
+      spriteID: 391067cee9e851a4dbaeb96a1b0c85a1
+      internalID: -1371513863
       vertices: []
       indices: 
       edges: []
@@ -178,9 +178,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      chillyANIM_0: -215664233
-      chillyANIM_1: -1830868601
-      chillyANIM_2: 1098153420
+      STATIC B.M SPRITE SHEET 1700-860_0: -1095925294
+      STATIC B.M SPRITE SHEET 1700-860_1: 1091534283
+      STATIC B.M SPRITE SHEET 1700-860_2: -1371513863
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39d16ecc4ce1c1a4c89c8bbb7a870f17
+guid: 2d181a4437219fe46a9ae9f60e309de8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,70 +103,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: chillyANIM_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 573.3333
-        height: 1010
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bccc0cd5f121bed4a8ed92935c90d390
-      internalID: -215664233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chillyANIM_1
-      rect:
-        serializedVersion: 2
-        x: 573
-        y: 0
-        width: 573.3333
-        height: 1010
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87ece2d80641a794ba07cd8c012dd8d8
-      internalID: -1830868601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chillyANIM_2
-      rect:
-        serializedVersion: 2
-        x: 1146
-        y: 0
-        width: 573.3333
-        height: 1010
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbf58a8088def0444bb6a0193854fde1
-      internalID: 1098153420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -177,10 +114,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      chillyANIM_0: -215664233
-      chillyANIM_1: -1830868601
-      chillyANIM_2: 1098153420
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

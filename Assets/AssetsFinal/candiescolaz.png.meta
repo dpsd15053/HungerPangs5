@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39d16ecc4ce1c1a4c89c8bbb7a870f17
+guid: bdeb9125a7189b3429aa31f998ccce8b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chillyANIM_0
+      name: candiescolaz_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 573.3333
-        height: 1010
+        width: 666.6667
+        height: 1150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bccc0cd5f121bed4a8ed92935c90d390
-      internalID: -215664233
+      spriteID: 840ca4c26fbe5b948a4693f257590544
+      internalID: 1974010595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chillyANIM_1
+      name: candiescolaz_1
       rect:
         serializedVersion: 2
-        x: 573
+        x: 666
         y: 0
-        width: 573.3333
-        height: 1010
+        width: 666.6667
+        height: 1150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ece2d80641a794ba07cd8c012dd8d8
-      internalID: -1830868601
+      spriteID: 4d5e637fe5836514eb3d49ae7390fad7
+      internalID: -257419701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chillyANIM_2
+      name: candiescolaz_2
       rect:
         serializedVersion: 2
-        x: 1146
+        x: 1332
         y: 0
-        width: 573.3333
-        height: 1010
+        width: 666.6667
+        height: 1150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbf58a8088def0444bb6a0193854fde1
-      internalID: 1098153420
+      spriteID: 054884c8be52bb3408d98a7c5e21f75e
+      internalID: 1765254614
       vertices: []
       indices: 
       edges: []
@@ -178,9 +178,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      chillyANIM_0: -215664233
-      chillyANIM_1: -1830868601
-      chillyANIM_2: 1098153420
+      candiescolaz_0: 1974010595
+      candiescolaz_1: -257419701
+      candiescolaz_2: 1765254614
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

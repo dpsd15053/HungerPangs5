@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f3f2b6c930f52fc4786a68a6fe3a881f
+guid: ea3ef01c22a811f49a25eb2118b941d6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 393198807_221342437663947_4950790660484928069_n_0
+      name: ANGRY B.M SPRITESHEET 1700-960_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 160
-        height: 199
+        width: 566.6667
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7322018307fd6c648a2e31a18543bc15
-      internalID: -783649229
+      spriteID: f28886d5c657bc64ab5497fb9f28eaf6
+      internalID: -1859807140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 393198807_221342437663947_4950790660484928069_n_1
+      name: ANGRY B.M SPRITESHEET 1700-960_1
       rect:
         serializedVersion: 2
-        x: 160
+        x: 566
         y: 0
-        width: 160
-        height: 199
+        width: 566.6667
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d081cf940ecdb24fb7a507147df6d65
-      internalID: -1820581341
+      spriteID: f32114565e6e1404a833b288d2fde557
+      internalID: 719486697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 393198807_221342437663947_4950790660484928069_n_2
+      name: ANGRY B.M SPRITESHEET 1700-960_2
       rect:
         serializedVersion: 2
-        x: 320
+        x: 1132
         y: 0
-        width: 160
-        height: 199
+        width: 566.6667
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 734b9785466289843870dd76c8cb27b8
-      internalID: -1558823828
+      spriteID: f572d8deaf0cdd9439b4da6297d269a3
+      internalID: -1361692745
       vertices: []
       indices: 
       edges: []
@@ -178,9 +178,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      393198807_221342437663947_4950790660484928069_n_0: -783649229
-      393198807_221342437663947_4950790660484928069_n_1: -1820581341
-      393198807_221342437663947_4950790660484928069_n_2: -1558823828
+      ANGRY B.M SPRITESHEET 1700-960_0: -1859807140
+      ANGRY B.M SPRITESHEET 1700-960_1: 719486697
+      ANGRY B.M SPRITESHEET 1700-960_2: -1361692745
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39d16ecc4ce1c1a4c89c8bbb7a870f17
+guid: 477281a2c3625ae47a5299cfb38dc243
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chillyANIM_0
+      name: mpoutakiANIM_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bccc0cd5f121bed4a8ed92935c90d390
-      internalID: -215664233
+      spriteID: fccf1bbba3404d241b95aa5c48fb64ad
+      internalID: 1181479744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chillyANIM_1
+      name: mpoutakiANIM_1
       rect:
         serializedVersion: 2
         x: 573
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ece2d80641a794ba07cd8c012dd8d8
-      internalID: -1830868601
+      spriteID: fea402393b97c10498f37c784517ac35
+      internalID: 127222097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chillyANIM_2
+      name: mpoutakiANIM_2
       rect:
         serializedVersion: 2
         x: 1146
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbf58a8088def0444bb6a0193854fde1
-      internalID: 1098153420
+      spriteID: 794d4fa90d9a04c4586f7b0044d6292f
+      internalID: -214838474
       vertices: []
       indices: 
       edges: []
@@ -178,9 +178,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      chillyANIM_0: -215664233
-      chillyANIM_1: -1830868601
-      chillyANIM_2: 1098153420
+      mpoutakiANIM_0: 1181479744
+      mpoutakiANIM_1: 127222097
+      mpoutakiANIM_2: -214838474
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
