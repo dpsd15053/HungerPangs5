@@ -29,7 +29,7 @@ public class CollectItem : MonoBehaviour
             if (healingAmount > 0)
             {
                 other.GetComponent<SanityManager>().GetSanity(healingAmount);
-
+                
             }
 
             // Check if the item is a damaging item

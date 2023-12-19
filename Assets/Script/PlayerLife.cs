@@ -24,7 +24,24 @@ public class PlayerLife : MonoBehaviour
         {
 
             Die();
-            
+            RestartLevel();
+
+        }
+
+    }
+
+    public void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("cherry"))
+        {
+
+            anim.SetTrigger("angry");
+
+        }
+        if (other.CompareTag("banana"))
+        {
+
+            anim.SetTrigger("happy");
 
         }
 
@@ -36,7 +53,7 @@ public class PlayerLife : MonoBehaviour
         rb.bodyType = RigidbodyType2D.Static;
         
     }
-
+   
     public void RestartLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);

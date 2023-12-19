@@ -62,6 +62,7 @@ public class SanityManager : MonoBehaviour
      }*/
     public void LoseSanity(float damage)
     {
+        
         FullSanity -= damage;
         SanityBar.fillAmount = FullSanity / 100f;
 
@@ -69,13 +70,16 @@ public class SanityManager : MonoBehaviour
     }
     public void GetSanity(float HealingAmount)
     {
+        
         FullSanity += HealingAmount;
         FullSanity = Mathf.Clamp(FullSanity, 0, 100);
+        
 
         if (SanitySlider != null)
         {
             SanitySlider.value = CurrentSanity;
         }
+      
     }
 
 
@@ -83,6 +87,7 @@ public class SanityManager : MonoBehaviour
     {
         anim.SetTrigger("death");
         rb.bodyType = RigidbodyType2D.Static;
+        RestartLevel();
 
 
     }
