@@ -32,13 +32,13 @@ public class PlayerLife : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("cherry"))
+        if (other.CompareTag("Cherry"))
         {
 
             anim.SetTrigger("angry");
 
         }
-        if (other.CompareTag("banana"))
+        if (other.CompareTag("Banana"))
         {
 
             anim.SetTrigger("happy");

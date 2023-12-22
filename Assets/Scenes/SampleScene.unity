@@ -1306,7 +1306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healingAmount: 0
-  damageAmount: 30
+  damageAmount: 15
 --- !u!60 &602464508
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2262,11 +2262,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6031846133901790120, guid: bfcdebeea49dcd1469192399a101ce9b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.02
+      value: 6.05
       objectReference: {fileID: 0}
     - target: {fileID: 6031846133901790120, guid: bfcdebeea49dcd1469192399a101ce9b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.2
+      value: -0.68
       objectReference: {fileID: 0}
     - target: {fileID: 6031846133901790120, guid: bfcdebeea49dcd1469192399a101ce9b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3101,8 +3101,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eaada2ea8f552a4baede7d620cab99e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healingAmount: 20
-  damageAmount: 50
+  healingAmount: 0
+  damageAmount: 15
 --- !u!95 &1261410507
 Animator:
   serializedVersion: 5
