@@ -8,6 +8,7 @@ TagManager:
   - Trap
   - Banana
   - Tutorial
+  - Flower
   layers:
   - Default
   - TransparentFX

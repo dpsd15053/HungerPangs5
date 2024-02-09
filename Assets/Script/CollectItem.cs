@@ -38,16 +38,12 @@ public class CollectItem : MonoBehaviour
                 other.GetComponent<SanityManager>().LoseSanity(damageAmount);
 
             }
-            Pop();
+            Destroy(gameObject);
 
 
         }
     }
 
 
-    private void Pop()
-    {
-        anim.SetTrigger("pop");
-        Destroy(gameObject);
-    }
+    
 }
