@@ -95,4 +95,22 @@ public class PlayerMovement : MonoBehaviour
         float castDistance = Mathf.Abs(rb.velocity.y) * Time.fixedDeltaTime + 0.1f;
         return Physics2D.BoxCast(coll.bounds.center, coll.bounds.size, 0f, Vector2.down, castDistance, jumpableGround);
     }
+    
+
+public class PlayerController : MonoBehaviour
+{
+    private bool hasReachedEndGameItem = false;
+
+    public void SetReachedEndGameItem()
+    {
+        hasReachedEndGameItem = true;
+    }
+
+    public bool HasReachedEndGameItem()
+    {
+        return hasReachedEndGameItem;
+    }
+
+    // Rest of your player controller logic...
+}
 }

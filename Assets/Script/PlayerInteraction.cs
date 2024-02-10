@@ -33,7 +33,8 @@ public class PlayerInteraction : MonoBehaviour
         }
     }
 
-    void Update()
+
+    public void Update()
     {
         // If you want to continuously show the message as long as the player stays on top
         if (isOnTrigger)
@@ -43,3 +44,6 @@ public class PlayerInteraction : MonoBehaviour
         }
     }
 }
+
+
+
