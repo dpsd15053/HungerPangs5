@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
         anim = GetComponent<Animator>();    
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         dirX = Input.GetAxisRaw("Horizontal");
@@ -97,20 +97,4 @@ public class PlayerMovement : MonoBehaviour
     }
     
 
-public class PlayerController : MonoBehaviour
-{
-    private bool hasReachedEndGameItem = false;
-
-    public void SetReachedEndGameItem()
-    {
-        hasReachedEndGameItem = true;
-    }
-
-    public bool HasReachedEndGameItem()
-    {
-        return hasReachedEndGameItem;
-    }
-
-    // Rest of your player controller logic...
-}
 }

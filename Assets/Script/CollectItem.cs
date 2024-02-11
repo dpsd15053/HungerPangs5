@@ -25,14 +25,14 @@ public class CollectItem : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // Check if the item is a healing item
+            
             if (healingAmount > 0)
             {
                 other.GetComponent<SanityManager>().GetSanity(healingAmount);
                 
             }
 
-            // Check if the item is a damaging item
+            
             if (damageAmount > 0)
             {
                 other.GetComponent<SanityManager>().LoseSanity(damageAmount);

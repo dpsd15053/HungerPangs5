@@ -17,7 +17,7 @@ public class PlayerInteraction : MonoBehaviour
                 Sprite flowerSprite = flower.tutorialImage;
                 string flowerMessage = flower.flowerMessage;
 
-                // Show both the message and the image
+               
                 popupMessage.ShowMessage(flowerMessage, flowerSprite);
             }
         }
@@ -28,7 +28,7 @@ public class PlayerInteraction : MonoBehaviour
         if (other.CompareTag("Flower"))
         {
             isOnTrigger = false;
-            // Hide the popup message
+            
             popupMessage.HideMessage();
         }
     }
@@ -36,11 +36,10 @@ public class PlayerInteraction : MonoBehaviour
 
     public void Update()
     {
-        // If you want to continuously show the message as long as the player stays on top
+       
         if (isOnTrigger)
         {
-            // You can continuously update the message if needed
-            // popupMessage.ShowMessage("Additional Message");
+           
         }
     }
 }

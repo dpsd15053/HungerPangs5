@@ -19,7 +19,7 @@ public class SanityManager : MonoBehaviour
 
     private Slider SanitySlider;
 
-    // Start is called before the first frame update
+    
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -37,7 +37,7 @@ public class SanityManager : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         LoseSanity(DamageRate * Time.deltaTime);
@@ -47,19 +47,7 @@ public class SanityManager : MonoBehaviour
         }
     }
 
-    /* public void TakeDamage(float damage)
-     {
-         CurrentSanity -= damage;
-         SanityBar.fillAmount = CurrentSanity/ 100f;
-         if (SanitySlider != null)
-
-         {
-            SanitySlider.value = CurrentSanity;
-
-         }
-
-
-     }*/
+    
     public void LoseSanity(float damage)
     {
         
